@@ -1,0 +1,13 @@
+<application>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\btodo\[Neumann\b.*" />
+    <filter name="Neumann">
+      <pattern index="1" />
+    </filter>
+  </component>
+</application>

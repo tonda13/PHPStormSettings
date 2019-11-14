@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="120" />
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="SOFT_MARGINS" value="120" />
+  </codeStyleSettings>
+</code_scheme>
